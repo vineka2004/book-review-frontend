@@ -1,6 +1,15 @@
 Book Review Frontend
 This is the React-based frontend for the Book Review Platform, where users can browse books, view details, and submit reviews.
 
+
+## 📸 Screenshots
+![Home Page](![image](https://github.com/user-attachments/assets/01886f26-9f25-429a-b3d3-85a59a3eb52b)
+)
+
+![Browse Books](![image](https://github.com/user-attachments/assets/bc75832b-0ddd-4504-a4e9-00a30d9e1e0a)
+)
+
+
 🔗 Live Website
 https://book-review-frontend-tau.vercel.app
 🔗 Backend API
