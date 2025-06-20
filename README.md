@@ -2,16 +2,7 @@ Book Review Frontend
 This is the React-based frontend for the Book Review Platform, where users can browse books, view details, and submit reviews.
 
 
-## 📸 Screenshots
-![Home Page]([Screenshot1](https://github.com/user-attachments/assets/4a3cf26b-e39e-48d8-8f8b-cd73ccc74f08)
-)
-)
-![Home Page](screenshots/screenshot1.png)
-![Browse Books]([Screenshot2](https://github.com/user-attachments/assets/8ce8cea7-10db-464e-b2b2-53578d829447)
-)
-)
-(![image](https://github.com/user-attachments/assets/47b29a19-6a55-45c7-bdfd-84d909f65a18)
-)
+
 
 
 
