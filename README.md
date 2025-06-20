@@ -10,7 +10,7 @@ This is the React-based frontend for the Book Review Platform, where users can b
 ![Browse Books]([Screenshot2](https://github.com/user-attachments/assets/8ce8cea7-10db-464e-b2b2-53578d829447)
 )
 )
-![Screenshot](![image](https://github.com/user-attachments/assets/47b29a19-6a55-45c7-bdfd-84d909f65a18)
+(![image](https://github.com/user-attachments/assets/47b29a19-6a55-45c7-bdfd-84d909f65a18)
 )
 
 
