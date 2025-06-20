@@ -3,10 +3,12 @@ This is the React-based frontend for the Book Review Platform, where users can b
 
 
 ## 📸 Screenshots
-![Home Page](![image](https://github.com/user-attachments/assets/01886f26-9f25-429a-b3d3-85a59a3eb52b)
+![Home Page](![Screenshot1](https://github.com/user-attachments/assets/4a3cf26b-e39e-48d8-8f8b-cd73ccc74f08)
+)
 )
 
-![Browse Books](![image](https://github.com/user-attachments/assets/bc75832b-0ddd-4504-a4e9-00a30d9e1e0a)
+![Browse Books](![Screenshot2](https://github.com/user-attachments/assets/8ce8cea7-10db-464e-b2b2-53578d829447)
+)
 )
 
 
