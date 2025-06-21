@@ -19,21 +19,16 @@ https://book-review-frontend-tau.vercel.app
 🚀 Vercel for frontend hosting
 
 
-## 🚀 API Endpoints
-
-### Users
+ 🚀 API Endpoints
+ Users
 - `POST /users` – Create a new user  
 - `GET /users/:id` – Get user by ID  
 - `PUT /users/:id` – Update user profile  
-
-### Books
+ Books
 - `POST /books` – Add a new book  
-
-### Reviews
+ Reviews
 - `GET /reviews` – Fetch all reviews  
 - `POST /reviews` – Add a review  
-
----
 
 ⚙️ Setup Instructions (Run Locally)
 1. Clone the repository
