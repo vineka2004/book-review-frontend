@@ -18,6 +18,23 @@ https://book-review-frontend-tau.vercel.app
 🌐 Axios for API requests
 🚀 Vercel for frontend hosting
 
+
+## 🚀 API Endpoints
+
+### Users
+- `POST /users` – Create a new user  
+- `GET /users/:id` – Get user by ID  
+- `PUT /users/:id` – Update user profile  
+
+### Books
+- `POST /books` – Add a new book  
+
+### Reviews
+- `GET /reviews` – Fetch all reviews  
+- `POST /reviews` – Add a review  
+
+---
+
 ⚙️ Setup Instructions (Run Locally)
 1. Clone the repository
  git clone https://github.com/vineka2004/book-review-frontend.git
