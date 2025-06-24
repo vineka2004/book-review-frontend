@@ -37,7 +37,7 @@ This is the React-based frontend for the Book Review Platform. It allows users t
 - `PUT /users/:id` – Update user profile  
 
 ### 📚 Books
-- `POST /books` – Add a new book (handled via DB only)
+- `POST /books` – Add a new book 
 
 ### ✍️ Reviews
 - `GET /reviews` – Fetch all reviews  
